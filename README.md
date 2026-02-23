@@ -1,10 +1,14 @@
 # 👋 Olá, eu sou Sergio Araujo
 
 🎯 Profissional focado em Tecnologia, Dados e Gestão Ágil  
-📍 Brasil  
+📍 Estou locado em Mauá, na grande São Paulo,Brasil  
 💼 Interesse em Desenvolvimento, Automação, Produtos e Projetos  
 
----
+## 📫 Contato
+
+- WhatsApp: +55 11 981644800
+- LinkedIn: https://linkedin.com/in/sergioaraujo
+- Email: sergio.a.araujo1971@gmail
 
 ## 🚀 Sobre Mim
 
@@ -52,10 +56,7 @@ Consolidar experiência em desenvolvimento e gestão ágil, contribuindo para pr
 
 ---
 
-## 📫 Contato
 
-- LinkedIn: (coloque seu link aqui)
-- Email: (coloque seu email aqui)
 
 ---
 
