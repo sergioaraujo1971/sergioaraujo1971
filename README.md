@@ -29,11 +29,16 @@ Busco sempre desenvolver soluções eficientes, organizadas e alinhadas às nece
 
 - Python
 - Pandas
+- PyAutoGui
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
 - Excel
 - Metodologias Ágeis (Scrum / Kanban)
+- Gestão de Projetos
+- Linguagem SQL
+- Java Script
+- 
 
 ---
 
